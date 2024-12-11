@@ -30,3 +30,22 @@
 *.exe
 *.out
 *.app
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# Debug files
+*.pdb
+*.ipdb
+*.idb
+
+# Files built by Visual Studio
+*.ilk
+
+# Log files
+*.tlog
+*.log
+
+# Build results
+x64/
+x86/
